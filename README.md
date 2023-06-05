@@ -2,7 +2,7 @@
 
 ## Tasks
 
-Given the template code, read through the comments and finish all the empty code. You should see where you need to complete the code has something like # Your code goes here or # START CODING HERE.
+Given the template code, read through the comments and finish all the empty code. You should see where you need to complete the code has something like `# Your code goes here` or `# START CODING HERE`.
 
 Some functions already provided in the codebase you might not understad those so don't worry about that.
 
